@@ -17,6 +17,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight)
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oiiemon9&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oiiemon9&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oiiemon9&theme=tokyonight)
+
 <!--
 **oiiemon9/oiiemon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
