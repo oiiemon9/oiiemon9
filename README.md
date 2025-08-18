@@ -30,11 +30,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="oiiemon9"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/oiiemon9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oiiemon9&&theme=tokyonight" alt="oiiemon9" />
-  </a>
-</p>
 
 ---
 
