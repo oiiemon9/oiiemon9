@@ -22,7 +22,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oiiemon9&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oiiemon9&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/oiiemon9)
 
 <div align="center">
   <a href="https://github.com/oiiemon9">
