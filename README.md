@@ -8,15 +8,20 @@
 
 ## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+<br/>
 
-<a>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues) </a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oiiemon9&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oiiemon9&theme=tokyonight" style="width: 100%;" />
 
 <!--
 **oiiemon9/oiiemon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
