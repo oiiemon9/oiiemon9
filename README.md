@@ -24,9 +24,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oiiemon9&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/oiiemon9)
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oiiemon9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="oiiemon9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="oiiemon9"/>
+<div align="center">
+  <a href="https://github.com/oiiemon9">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oiiemon9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="oiiemon9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="oiiemon9"/>
+  </a>
 </div>
 
 ---
