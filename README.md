@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="200" src="./Let’s Code_ (1).jpg"  />
+  <img src="./Let’s Code_ (1).jpg"  />
 </div>
 
 <!--
