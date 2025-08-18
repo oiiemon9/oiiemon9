@@ -16,7 +16,6 @@
 </table>
 
 <br/>
-[![](https://visitcount.itsvg.in/api?id=oiiemon9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://visitcount.itsvg.in/api?id=oiiemon9&icon=0&color=0" style="width: 100%;" />
 
