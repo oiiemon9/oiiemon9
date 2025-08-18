@@ -12,7 +12,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
     </td>
     <td>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
     </td>
   </tr>
 </table>
