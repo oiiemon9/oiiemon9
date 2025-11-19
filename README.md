@@ -35,7 +35,7 @@
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-       <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="CSS3" width="50" height="50"/>
+       <img title='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="CSS3" width="50" height="50"/>
       <br />
       <sub><b>React</b></sub>
     </td>
@@ -45,12 +45,12 @@
       <sub><b>TailwindCSS</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-       <img title='TailwindCSS' src="https://raw.githubusercontent.com/sakibweb/skill-icons/main/icons/Daisyui-Light.svg" alt="TailwindCSS" width="50" height="50"/>
+       <img title='Daisyui' src="https://raw.githubusercontent.com/sakibweb/skill-icons/main/icons/Daisyui-Light.svg" alt="TailwindCSS" width="50" height="50"/>
       <br />
       <sub><b>Daisyui</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-       <img title='TailwindCSS' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+       <img title='bootstrap' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
       <br />
       <sub><b>Bootstrap</b></sub>
     </td>
@@ -67,12 +67,12 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="HTML5" width="50" height="50"/>
+         <img title='Node js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node js" width="50" height="50"/>
       <br />
       <sub><b>Node js</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-       <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="CSS3" width="50" height="50"/>
+       <img title='Express js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express js" width="50" height="50"/>
       <br />
       <sub><b>Express js</b></sub>
     </td>
@@ -90,7 +90,7 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='HTML5' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+         <img title='Mongodb' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/>
       <br />
       <sub><b>Mongodb</b></sub>
     </td>
@@ -103,7 +103,7 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='HTML5' src="https://skillicons.dev/icons?i=vercel" alt="HTML5" width="50" height="50"/>
+         <img title='Vercel' src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
       <br />
       <sub><b>Vercel</b></sub>
     </td>
@@ -121,27 +121,27 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='Aws' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+         <img title='Aws' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Aws" width="50" height="50"/>
       <br />
       <sub><b>Aws</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-     <img title='blender' src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Firebase" width="50" height="50"/>
+     <img title='blender' src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
       <br />
       <sub><b>Blender</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-     <img title='blender' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Firebase" width="50" height="50"/>
+     <img title='Figma' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
       <br />
       <sub><b>Figma</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-     <img title='adobe_illustrator' src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Firebase" width="50" height="50"/>
+     <img title='adobe_illustrator' src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe illustrator" width="50" height="50"/>
       <br />
       <sub><b>Adobe illustrator</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-     <img title='adobe_illustrator' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Firebase" width="50" height="50"/>
+     <img title='Photoshop' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
       <br />
       <sub><b>Photoshop</b></sub>
     </td>
