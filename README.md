@@ -6,25 +6,74 @@
 
 **_Hi_**,👋 I'm **Emon Mollah** and I'm a professional web developer from **Bangladesh**. Web development is my passion, and I enjoy building **clean, responsive, high-quality, and real-world** web applications that solve real problems.
 
-## GitHub Activity
+## Languages and Tools I Use
+
+#### Languages
 
 <table>
   <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+    <td align="center" width="100" style="padding:8px;">
+        <img title='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+      <br />
+      <sub><b>JavaScript</b></sub>
     </td>
-    <td>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=1800" />
-    </td>
-
   </tr>
 </table>
 
-<br/>
+#### Frontend Technologies
 
-<img src="https://streak-stats.demolab.com/?user=oiiemon9&theme=tokyonight" width="100%"/>
+<table>
+  <tr>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+      <br />
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+      <br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='TailwindCSS' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+      <br />
+      <sub><b>TailwindCSS</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='TailwindCSS' src="https://raw.githubusercontent.com/sakibweb/skill-icons/main/icons/Daisyui-Light.svg" alt="TailwindCSS" width="50" height="50"/>
+      <br />
+      <sub><b>Daisyui</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='TailwindCSS' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+      <br />
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='Vite' src="https://vite.dev/logo.svg" alt="HTML5" width="50" height="50"/>
+      <br />
+      <sub><b>Vite</b></sub>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Languages and Tools I Use
+#### Back-End
+
+<table>
+  <tr>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="HTML5" width="50" height="50"/>
+      <br />
+      <sub><b>Nodejs</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+       <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="CSS3" width="50" height="50"/>
+      <br />
+      <sub><b>Express js</b></sub>
+    </td>
+    
+  </tr>
+</table>
 
 <p align="center">
   <!-- HTML5 -->
@@ -50,6 +99,24 @@
   <!-- Next.js -->
   <img title='Next.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
 </p>
+
+## GitHub Activity
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiiemon9&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+    </td>
+    <td>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiiemon9&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=1800" />
+    </td>
+
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=oiiemon9&theme=tokyonight" width="100%"/>
 
 <!--
 **oiiemon9/oiiemon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
