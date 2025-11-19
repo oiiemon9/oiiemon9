@@ -35,6 +35,11 @@
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
+       <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="CSS3" width="50" height="50"/>
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
        <img title='TailwindCSS' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
       <br />
       <sub><b>TailwindCSS</b></sub>
@@ -64,7 +69,7 @@
     <td align="center" width="100" style="padding:8px;">
          <img title='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="HTML5" width="50" height="50"/>
       <br />
-      <sub><b>Nodejs</b></sub>
+      <sub><b>Node js</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
        <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="CSS3" width="50" height="50"/>
@@ -72,6 +77,40 @@
       <sub><b>Express js</b></sub>
     </td>
     
+  </tr>
+</table>
+
+#### Database
+
+<table>
+  <tr>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='HTML5' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+      <br />
+      <sub><b>Mongodb</b></sub>
+    </td>
+
+  </tr>
+</table>
+
+#### Deployment
+
+<table>
+  <tr>
+    <td align="center" width="80" style="padding:8px;">
+  <svg width='60'  viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M128 34L223 198.853H33L128 34Z" fill="white"/>
+</svg>
+      <br />
+      <sub><b>Vercel</b></sub>
+    </td>
+       <td align="center" width="100" style="padding:8px;">
+          <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+      <br />
+      <sub><b>Mongodb</b></sub>
+    </td>
+
   </tr>
 </table>
 
