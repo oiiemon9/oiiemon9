@@ -2,11 +2,11 @@
   <img src="./Let’s Code_.jpg"  />
 </div>
 
-## 📊 About Me
+# About Me
 
 Hi,👋 I'm **Emon Mollah** and I'm a professional web developer from **Bangladesh**. Web development is my passion, and I enjoy building **clean, responsive, high-quality, and real-world** web applications that solve real problems.
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <table>
   <tr>
