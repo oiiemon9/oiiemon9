@@ -149,6 +149,14 @@
   </tr>
 </table>
 
+## What I will learn in the future
+
+- **TypeScript**
+- **PostgreSQL & Prisma**
+- **Golang**
+- **Docker & Nginx**
+- **AWS**
+
 ## Contact
 
 Message me on LinkedIn anytime you want. [Linkedin](https://www.linkedin.com/in/oiiemon9/)
@@ -159,14 +167,6 @@ You can also find me on:
 - **Linkedin**: [Click Here](https://www.linkedin.com/in/oiiemon9/)
 
 Connect with me, and I will help solve all your problems.
-
-## What I will learn in the future
-
-- **TypeScript**
-- **PostgreSQL & Prisma**
-- **Golang**
-- **Docker & Nginx**
-- **AWS**
 
 ## GitHub Activity
 
