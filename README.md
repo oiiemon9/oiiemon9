@@ -160,6 +160,14 @@ You can also find me on:
 
 Connect with me, and I will help solve all your problems.
 
+## What I will learn in the future
+
+- **TypeScript**
+- **PostgreSQL & Prisma**
+- **Golang**
+- **Docker & Nginx**
+- **AWS**
+
 ## GitHub Activity
 
 <table>
