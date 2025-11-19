@@ -76,6 +76,11 @@
       <br />
       <sub><b>Express js</b></sub>
     </td>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='Next.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+      <br />
+      <sub><b>Next js</b></sub>
+    </td>
     
   </tr>
 </table>
@@ -144,30 +149,16 @@
   </tr>
 </table>
 
-<p align="center">
-  <!-- HTML5 -->
-  <img title='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <!-- CSS3 -->
-  <img title='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <!-- TailwindCSS -->
-  <img title='TailwindCSS' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-  <!-- JavaScript -->
-  <img title='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <!-- React -->
-  <img title='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <!-- Vite -->
-  <img title='Vite' src="https://vite.dev/logo.svg" alt="HTML5" width="50" height="50"/>
-  <!-- Firebase -->
-  <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <!-- Node.js -->
-  <img title='Node.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <!-- Express.js -->
-  <img title='Express.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <!-- MongoDB -->
-  <img title='MongoDB' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <!-- Next.js -->
-  <img title='Next.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-</p>
+## Contact
+
+Message me on LinkedIn anytime you want. [Linkedin](https://www.linkedin.com/in/oiiemon9/)
+
+You can also find me on:
+
+- **Email**: oiiemon9@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/oiiemon9/)
+
+Connect with me, and I will help solve all your problems.
 
 ## GitHub Activity
 
