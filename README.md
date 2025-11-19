@@ -116,14 +116,29 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='HTML5' src="https://skillicons.dev/icons?i=vercel" alt="HTML5" width="50" height="50"/>
+         <img title='Aws' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
       <br />
-      <sub><b>Vercel</b></sub>
+      <sub><b>Aws</b></sub>
     </td>
     <td align="center" width="100" style="padding:8px;">
-     <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+     <img title='blender' src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Firebase" width="50" height="50"/>
       <br />
-      <sub><b>Firebase</b></sub>
+      <sub><b>Blender</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+     <img title='blender' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Firebase" width="50" height="50"/>
+      <br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+     <img title='adobe_illustrator' src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Firebase" width="50" height="50"/>
+      <br />
+      <sub><b>Adobe illustrator</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+     <img title='adobe_illustrator' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Firebase" width="50" height="50"/>
+      <br />
+      <sub><b>Photoshop</b></sub>
     </td>
     
   </tr>
