@@ -97,20 +97,35 @@
 
 <table>
   <tr>
-    <td align="center" width="80" style="padding:8px;">
-  <svg width='60'  viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#242938"/>
-<path d="M128 34L223 198.853H33L128 34Z" fill="white"/>
-</svg>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='HTML5' src="https://skillicons.dev/icons?i=vercel" alt="HTML5" width="50" height="50"/>
       <br />
       <sub><b>Vercel</b></sub>
     </td>
-       <td align="center" width="100" style="padding:8px;">
-          <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+    <td align="center" width="100" style="padding:8px;">
+     <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
       <br />
-      <sub><b>Mongodb</b></sub>
+      <sub><b>Firebase</b></sub>
     </td>
+    
+  </tr>
+</table>
 
+#### Other
+
+<table>
+  <tr>
+    <td align="center" width="100" style="padding:8px;">
+         <img title='HTML5' src="https://skillicons.dev/icons?i=vercel" alt="HTML5" width="50" height="50"/>
+      <br />
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="100" style="padding:8px;">
+     <img title='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+      <br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    
   </tr>
 </table>
 
