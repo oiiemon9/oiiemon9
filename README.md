@@ -123,11 +123,6 @@
 <table>
   <tr>
     <td align="center" width="100" style="padding:8px;">
-         <img title='Aws' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Aws" width="50" height="50"/>
-      <br />
-      <sub><b>Aws</b></sub>
-    </td>
-    <td align="center" width="100" style="padding:8px;">
      <img title='blender' src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
       <br />
       <sub><b>Blender</b></sub>
